@@ -1,0 +1,1 @@
+from math_utils.operations import factorial, is_prime

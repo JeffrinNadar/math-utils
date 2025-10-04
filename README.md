@@ -9,6 +9,6 @@ pip install -r requirements.txt
 
 ## Usage
 ```python
-from math_utils.operations import factorial
+from math_utils import factorial
 print(factorial(5)) # Output: 120
 ```
