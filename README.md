@@ -1,9 +1,10 @@
 # Math Utils Library
 
+![Build Status](https://github.com/JeffrinNadar/math-utils/actions/workflows/python-app.yml/badge.svg)
+
 ## Installation
 ```bash
 pip install -r requirements.txt
-
 ```
 
 ## Usage
